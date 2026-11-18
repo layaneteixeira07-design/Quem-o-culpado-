@@ -1,0 +1,6 @@
+{
+  "name": "Quem é o Culpado? - Jogo de Investigação Detetive",
+  "description": "Jogo investigativo e interativo de mistério para celular e web. Interrogue suspeitos, encontre pistas escondidas, analise contradições no mural de evidências e descubra o verdadeiro culpado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
